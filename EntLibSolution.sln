@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingApplicationBlock", "CachingApplicationBlock\CachingApplicationBlock.csproj", "{3BC1E72B-6129-4759-A8AE-1F82ED07112B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingApplicationBlockAdvanced", "CachingApplicationBlockAdvanced\CachingApplicationBlockAdvanced.csproj", "{D116609E-387A-40CD-86AB-245775C7DA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptographyApplicationBlock", "CryptographyApplicationBlock\CryptographyApplicationBlock.csproj", "{F01A13D7-2AD0-427E-917A-0FB0AEF1309A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptographyApplicationBlockAdvanced", "CryptographyApplicationBlockAdvanced\CryptographyApplicationBlockAdvanced.csproj", "{FDE5D4DE-0168-44E7-8888-8BDF90F22967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationApplicationBlock", "ValidationApplicationBlock\ValidationApplicationBlock.csproj", "{B6566EE1-85CD-4DC6-954D-A68DE422E2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationApplicationBlockAdvanced", "ValidationApplicationBlockAdvanced\ValidationApplicationBlockAdvanced.csproj", "{EAD81313-9E2C-477C-BCE2-95CA4052B52A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingApplicationBlock", "LoggingApplicationBlock\LoggingApplicationBlock.csproj", "{4517E644-ED49-4254-84EE-DDE81F57C7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingApplicationBlock", "ExceptionHandlingApplicationBlock\ExceptionHandlingApplicationBlock.csproj", "{3CF580BC-8EA4-40C4-AF32-1F26EFE8305F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC1E72B-6129-4759-A8AE-1F82ED07112B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC1E72B-6129-4759-A8AE-1F82ED07112B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC1E72B-6129-4759-A8AE-1F82ED07112B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC1E72B-6129-4759-A8AE-1F82ED07112B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D116609E-387A-40CD-86AB-245775C7DA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D116609E-387A-40CD-86AB-245775C7DA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D116609E-387A-40CD-86AB-245775C7DA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D116609E-387A-40CD-86AB-245775C7DA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01A13D7-2AD0-427E-917A-0FB0AEF1309A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01A13D7-2AD0-427E-917A-0FB0AEF1309A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01A13D7-2AD0-427E-917A-0FB0AEF1309A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01A13D7-2AD0-427E-917A-0FB0AEF1309A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE5D4DE-0168-44E7-8888-8BDF90F22967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE5D4DE-0168-44E7-8888-8BDF90F22967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE5D4DE-0168-44E7-8888-8BDF90F22967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE5D4DE-0168-44E7-8888-8BDF90F22967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6566EE1-85CD-4DC6-954D-A68DE422E2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6566EE1-85CD-4DC6-954D-A68DE422E2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6566EE1-85CD-4DC6-954D-A68DE422E2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6566EE1-85CD-4DC6-954D-A68DE422E2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD81313-9E2C-477C-BCE2-95CA4052B52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD81313-9E2C-477C-BCE2-95CA4052B52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD81313-9E2C-477C-BCE2-95CA4052B52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD81313-9E2C-477C-BCE2-95CA4052B52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4517E644-ED49-4254-84EE-DDE81F57C7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4517E644-ED49-4254-84EE-DDE81F57C7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4517E644-ED49-4254-84EE-DDE81F57C7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4517E644-ED49-4254-84EE-DDE81F57C7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF580BC-8EA4-40C4-AF32-1F26EFE8305F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF580BC-8EA4-40C4-AF32-1F26EFE8305F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF580BC-8EA4-40C4-AF32-1F26EFE8305F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF580BC-8EA4-40C4-AF32-1F26EFE8305F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35;packages\Unity.Interception.2.1.505.0\lib\NET35;packages\EnterpriseLibrary.Common.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Caching.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Security.5.0.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal
